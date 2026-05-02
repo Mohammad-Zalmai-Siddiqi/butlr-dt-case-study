@@ -13,3 +13,17 @@ Many modern buildings struggle to understand how spaces are actually used. Tradi
 At the same time, there is a growing demand for smarter, more efficient buildings. Organizations want to reduce costs, improve sustainability, and create better environments for people. This creates a strong opportunity for new technologies that can provide accurate insights without violating privacy.
 
 Butlr addresses this opportunity by offering a privacy-first solution that helps organizations understand space usage in real time while maintaining trust and compliance.
+
+## Technology and Solution
+
+Butlr uses a combination of thermal sensors, Artificial Intelligence (AI), and Internet of Things (IoT) technologies to understand how people use indoor spaces without compromising privacy.
+
+At the core of the system is the Heatic™ sensor, a wireless device that detects body heat instead of capturing images. Unlike traditional cameras, these sensors do not collect personal or identifiable information, making the system privacy-first. The sensors can detect human presence, movement, and occupancy patterns using temperature data.
+
+These sensors are connected in a network and send data to a central gateway called the “Hive.” The Hive transfers the data to the cloud, where advanced AI and machine learning algorithms analyze it. The system converts raw thermal data into meaningful insights such as occupancy levels, movement patterns, and space utilization.
+
+The Butlr platform provides real-time and historical dashboards that allow organizations to monitor how spaces are used. Facility managers can see which areas are crowded, underused, or require maintenance. This helps in making better decisions about energy use, cleaning schedules, and workspace design.
+
+Additionally, Butlr offers APIs and integration tools that allow organizations to connect this data with other systems. This enables automation, such as adjusting lighting or HVAC systems based on real-time occupancy, improving both efficiency and sustainability.
+
+Overall, Butlr’s technology acts like a “nerve system” for buildings, helping them respond intelligently to human activity while ensuring complete privacy. 
