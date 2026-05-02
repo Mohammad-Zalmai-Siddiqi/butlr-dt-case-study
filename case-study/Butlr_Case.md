@@ -20,7 +20,7 @@ Butlr uses a combination of thermal sensors, Artificial Intelligence (AI), and I
 
 At the core of the system is the Heatic™ sensor, a wireless device that detects body heat instead of capturing images. Unlike traditional cameras, these sensors do not collect personal or identifiable information, making the system privacy-first. The sensors can detect human presence, movement, and occupancy patterns using temperature data.
 
-These sensors are connected in a network and send data to a central gateway called the “Hive.” The Hive transfers the data to the cloud, where advanced AI and machine learning algorithms analyze it. The system converts raw thermal data into meaningful insights such as occupancy levels, movement patterns, and space utilization.
+These sensors are connected in a network and send data to a central gateway called the “Hive.” The Hive transfers the data to the cloud, where advanced AI and machine learning algorithms analyze the data to generate actionable insights such as occupancy levels, movement patterns, and space utilization.
 
 The Butlr platform provides real-time and historical dashboards that allow organizations to monitor how spaces are used. Facility managers can see which areas are crowded, underused, or require maintenance. This helps in making better decisions about energy use, cleaning schedules, and workspace design.
 
