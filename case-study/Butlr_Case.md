@@ -2,9 +2,11 @@
 
 ## Introduction
 
-Butlr is a technology company that is changing how buildings understand and use data. Traditional smart building systems use cameras and personal data, which can raise privacy concerns. Butlr solves this problem by using thermal sensors that detect body heat instead of capturing images. This means buildings can understand how people move and use spaces without collecting personal or sensitive information.
+Butlr, co-founded by Jiani Zeng and Honghao Deng, is a technology company that is transforming how buildings understand and use data. As leaders of the company, they faced a critical challenge: how to create smart buildings that use data effectively without violating user privacy.
 
-This case study explains how Butlr uses Artificial Intelligence (AI) and Internet of Things (IoT) technologies to improve building efficiency, reduce costs, and support better decision-making while protecting user privacy.
+Traditional smart building systems rely on cameras and personal data, which often raise privacy concerns and reduce user trust. Butlr addresses this issue by using thermal sensors that detect body heat instead of capturing images. This approach allows buildings to understand how people move and use spaces without collecting personal or sensitive information.
+
+This case examines how Butlr leverages Artificial Intelligence (AI) and Internet of Things (IoT) technologies to improve building efficiency, reduce costs, and support better decision-making while maintaining a strong commitment to privacy.
 
 ## Problem and Opportunity
 
@@ -12,7 +14,7 @@ Many modern buildings struggle to understand how spaces are actually used. Tradi
 
 At the same time, there is a growing demand for smarter, more efficient buildings. Organizations want to reduce costs, improve sustainability, and create better environments for people. This creates a strong opportunity for new technologies that can provide accurate insights without violating privacy.
 
-Butlr addresses this opportunity by offering a privacy-first solution that helps organizations understand space usage in real time while maintaining trust and compliance.
+Butlr addresses this opportunity by offering a privacy-first solution that helps organizations understand space usage in real time while maintaining trust and compliance. However, Butlr also faces an important strategic challenge. While its privacy-first approach differentiates it from traditional camera-based systems, it may limit the level of detail compared to visual data solutions. The company must balance privacy with data accuracy while competing with established smart building technologies.
 
 ## Technology and Solution
 
@@ -49,3 +51,15 @@ Butlr represents a new generation of smart building technology that balances inn
 The case highlights how organizations can use data-driven insights to improve efficiency, reduce costs, and support sustainability goals while maintaining user trust.
 
 Although challenges such as implementation costs, system integration, and competition may affect adoption, Butlr’s privacy-first approach positions it strongly in the evolving smart building market and demonstrates how digital transformation can create long-term strategic value.
+
+## Discussion Questions
+
+1. Should organizations prioritize privacy over data accuracy when implementing smart building technologies?
+
+2. How can Butlr compete with traditional camera-based systems that provide more detailed data?
+
+3. What industries would benefit most from Butlr’s technology, and why?
+
+4. What challenges might organizations face when adopting Butlr’s solution?
+
+5. How can Butlr scale its solution while maintaining its privacy-first approach?
