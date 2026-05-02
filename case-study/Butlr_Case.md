@@ -26,4 +26,4 @@ The Butlr platform provides real-time and historical dashboards that allow organ
 
 Additionally, Butlr offers APIs and integration tools that allow organizations to connect this data with other systems. This enables automation, such as adjusting lighting or HVAC systems based on real-time occupancy, improving both efficiency and sustainability.
 
-Overall, Butlr’s technology acts like a “nerve system” for buildings, helping them respond intelligently to human activity while ensuring complete privacy. This integrated system allows organizations to make smarter, data-driven decisions while maintaining user privacy.
+Overall, Butlr’s technology acts like a “nerve system” for buildings, enabling them to respond intelligently to human activity while ensuring complete privacy. This allows organizations to make smarter, data-driven decisions with confidence.
