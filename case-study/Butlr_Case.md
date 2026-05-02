@@ -52,6 +52,8 @@ The case highlights how organizations can use data-driven insights to improve ef
 
 Although challenges such as implementation costs, system integration, and competition may affect adoption, Butlr’s privacy-first approach positions it strongly in the evolving smart building market and demonstrates how digital transformation can create long-term strategic value.
 
+This creates a key strategic decision for Butlr: should the company continue prioritizing its privacy-first approach, or expand toward more data-rich solutions to compete with traditional camera-based systems? While stronger data collection could improve accuracy and insights, it may also weaken Butlr’s core value of user privacy and trust. This tradeoff represents a critical decision for the company’s future growth and competitive positioning.
+
 ## Discussion Questions
 
 1. Should organizations prioritize privacy over data accuracy when implementing smart building technologies?
