@@ -6,7 +6,7 @@ Butlr, co-founded by Jiani Zeng and Honghao Deng, is a technology company that i
 
 Traditional smart building systems rely on cameras and personal data, which often raise privacy concerns and reduce user trust. Butlr addresses this issue by using thermal sensors that detect body heat instead of capturing images. This approach allows buildings to understand how people move and use spaces without collecting personal or sensitive information.
 
-This case examines how Butlr leverages Artificial Intelligence (AI) and Internet of Things (IoT) technologies to improve building efficiency, reduce costs, and support better decision-making while maintaining a strong commitment to privacy.
+This case study examines how Butlr leverages Artificial Intelligence (AI) and Internet of Things (IoT) technologies to improve building efficiency, reduce costs, and support better decision-making while maintaining a strong commitment to privacy.
 
 ## Problem and Opportunity
 
