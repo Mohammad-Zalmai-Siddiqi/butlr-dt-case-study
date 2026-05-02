@@ -1,11 +1,20 @@
 # Additional Sources
 
 ## Source List
-- MIT Media Lab / MIT News – Butlr smart building research and origin  
+- MIT News – Butlr smart buildings with privacy-first sensors  
+  URL: https://news.mit.edu/2025/butlr-creates-smart-buildings-with-privacy-first-sensors-0211  
+
 - Butlr Platform Documentation – System architecture and product overview  
+  URL: https://support.butlr.io/hc/en-us/articles/33781555446285-Butlr-Platform-Overview  
+
+- Yahoo Finance – Butlr partnership with Disruptive Technologies  
+  URL: https://finance.yahoo.com/news/butlr-disruptive-technologies-partner-deliver-130000082.html  
+
+- Nexus Labs – Industry insights on Butlr and smart building technology  
+  URL: https://www.nexuslabs.online/partners/butlr  
+
 - Buildings.com – Article on Butlr funding and smart building applications  
-- Business Wire / Yahoo Finance – Butlr partnership with Disruptive Technologies  
-- Nexus Labs – Industry insights on smart building technologies  
+  URL: https://www.buildings.com/resiliency-sustainability/health-wellness-iaq/article/33018491/butlr-technologies-inc-butlr-raises-20m-for-aiot-body-heat-occupancy-sensing-technology  
 
 ## Key Insights
 - Butlr focuses on privacy-first sensing using thermal technology  
