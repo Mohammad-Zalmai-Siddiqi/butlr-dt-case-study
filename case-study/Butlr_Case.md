@@ -44,6 +44,8 @@ Overall, Butlr delivers both operational efficiency and strategic value, making 
 
 ## Conclusion
 
-Butlr represents a new generation of smart building technology that successfully balances innovation with privacy. By combining AI, IoT, and thermal sensing, it solves a critical challenge in modern buildings—understanding space usage without compromising personal data.
+Butlr represents a new generation of smart building technology that balances innovation with privacy. By combining AI, IoT, and thermal sensing, it solves a critical challenge in modern buildings—understanding space usage without compromising personal data.
 
-As organizations continue to focus on efficiency, sustainability, and user experience, solutions like Butlr will play an important role in shaping the future of smart buildings.
+The case highlights how organizations can use data-driven insights to improve efficiency, reduce costs, and support sustainability goals while maintaining user trust.
+
+Although challenges such as implementation costs, system integration, and competition may affect adoption, Butlr’s privacy-first approach positions it strongly in the evolving smart building market and demonstrates how digital transformation can create long-term strategic value.
