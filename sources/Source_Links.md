@@ -1,7 +1,19 @@
 # Source Links and References
 
 Catalog of all source materials for the case study.
-
+## Butlr Sources
+1. MIT News – Creating Smart Buildings with Privacy-First Sensors  
+https://news.mit.edu/2025/butlr-creates-smart-buildings-with-privacy-first-sensors-0211
+2. IoT Intelligence for Indoor People Movement & Wellbeing – Butlr (Youtube Interview)
+https://www.youtube.com/watch?v=aF1EdtO5MJE
+3. What is Butlr – Documentation 
+https://docs.butlr.io/what-is-butlr
+4. Butlr Platform Overview  
+https://support.butlr.io/hc/en-us/articles/33781555446285-Butlr-Platform-Overview
+5. Butlr Raises $20 Million – Buildings.com  
+https://www.buildings.com/resiliency-sustainability/health-wellness-iaq/article/33018491/butlr-technologies-inc-butlr-raises-20m-for-aiot-body-heat-occupancy-sensing-technology
+6. Butlr Partnership News – Yahoo Finance
+https://finance.yahoo.com/news/butlr-disruptive-technologies-partner-deliver-130000082.html
 ---
 
 ## Primary Interviews
