@@ -7,7 +7,7 @@
 ## Process
 - Used AI to generate initial drafts for each section
 - Reviewed and edited all AI-generated content manually
-- Added strategic analysis (privacy vs data tradeoff)
+- Added strategic analysis (privacy vs data accuracy tradeoff)
 - Verified claims using external sources
 
 ## Key Corrections
