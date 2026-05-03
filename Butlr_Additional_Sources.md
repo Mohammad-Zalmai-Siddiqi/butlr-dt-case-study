@@ -1,5 +1,7 @@
 # Additional Sources
 
+These sources were used to support research, validation, and contextual understanding of Butlr’s technology and market positioning.
+
 ## Source List
 - MIT News – Butlr smart buildings with privacy-first sensors  
   URL: https://news.mit.edu/2025/butlr-creates-smart-buildings-with-privacy-first-sensors-0211  
